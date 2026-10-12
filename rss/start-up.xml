@@ -4,9 +4,85 @@
 <title>Daily Recap — 🚦Start Up</title>
 <link>https://hch-agents.github.io/rss/start-up.xml</link>
 <description>One briefing per day for 🚦Start Up: the day's highlights with summaries and sources.</description>
-<pubDate>Sun, 11 Oct 2026 20:01:42 -0400</pubDate>
-<lastBuildDate>Sun, 11 Oct 2026 20:01:42 -0400</lastBuildDate>
+<pubDate>Sun, 11 Oct 2026 20:05:19 -0400</pubDate>
+<lastBuildDate>Sun, 11 Oct 2026 20:05:19 -0400</lastBuildDate>
 <language>en-us</language>
+<item><title>🚦Start Up — Sunday, October 11, 2026</title><link>https://hch-agents.github.io/rss/start-up.xml</link><guid isPermaLink="false">2026-10-11-start-up-175b83be5a78ca49</guid><pubDate>Sun, 11 Oct 2026 05:00:00 -0400</pubDate><description>&lt;h3&gt;Amazon in talks to buy AI startup Decart at ~$7B valuation&lt;/h3&gt;
+&lt;p&gt;Sources tell Techmeme that Amazon is in talks to acquire AI startup Decart in a deal that could value it around $7B.&lt;/p&gt;
+&lt;p&gt;Another mega-deal in the AI startup sweepstakes — and a sign that the biggest acquirers are still willing to pay up for AI talent and tech, consolidation be damned.&lt;/p&gt;
+&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.techmeme.com/261011/p11#a261011p11"&gt;Techmeme: Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Musk and Benioff pledged to rename SpaceXAI and AIForce; Nadella and Nvidia adopt new names&lt;/h3&gt;
+&lt;p&gt;Techmeme reports on the surreal corporate theater of AI renaming: Musk and Benioff pledging new names while Nadella and Nvidia adopt them. It reads like satire, but it's real — the AI branding wars have officially jumped the shark.&lt;/p&gt;
+&lt;p&gt;Underneath the absurdity is a serious point about how much of the AI race is now narrative and positioning rather than technology.&lt;/p&gt;
+&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.techmeme.com/261011/p10#a261011p10"&gt;Techmeme: How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted "super intelligence", as Silicon Valley falls in line with Trump (Terrence O'Brien/The Verge)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;The data center squeeze: Anthropic's 245MW leases, NDA fights, and a drone strike on Yandex&lt;/h3&gt;
+&lt;p&gt;Three stories capture the data center moment. Techmeme looks at the economics of Anthropic's data center leases, with analysts estimating a 245MW footprint — a staggering scale for a single AI lab.&lt;/p&gt;
+&lt;p&gt;TechCrunch asks whether the AI industry can win over data center opponents by dropping NDAs — transparency as community relations. And in the starkest item of the day, Yandex says a drone strike shut down a third data center, disrupting 80+ services. The physical vulnerability of digital infrastructure, made vivid.&lt;/p&gt;
+&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.techmeme.com/261011/p9#a261011p9"&gt;Techmeme: A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"&gt;TechCrunch: Can the AI industry persuade data center opponents by getting rid of NDAs?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techmeme.com/261011/p8#a261011p8"&gt;Techmeme: Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages (Tymur Dubovyk/Kyiv Post)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Robotics and physical AI: $48B raised this year, Neolix runs the world's largest robovan fleet&lt;/h3&gt;
+&lt;p&gt;PitchBook data via Techmeme: robotics and physical AI companies have raised roughly $48B year-to-date, as the sector gathers serious training-data and deployment momentum.&lt;/p&gt;
+&lt;p&gt;Exhibit A: Beijing-based Neolix, which operates the world's largest robovan fleet at 27,000 vehicles. And Multiply Labs is applying robotics to pharmaceutical manufacturing. The 'physical AI' wave is no longer a thesis — it's a fleet.&lt;/p&gt;
+&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.techmeme.com/261011/p6#a261011p6"&gt;Techmeme: PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes (Rafe Rosner-Uddin/Financial Times)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techmeme.com/261011/p5#a261011p5"&gt;Techmeme: A look at Beijing-based Neolix, which operates the world's largest robovan fleet at 27K, as Shenzhen tests nighttime parcel deliveries by driverless vehicles (Bloomberg)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techmeme.com/261011/p3#a261011p3"&gt;Techmeme: Multiply Labs, which develops robotic systems to automate pharmaceutical manufacturing processes, raised a $75M Series B led by Patrick Soon-Shiong's NantWorks (Maria Deutscher/SiliconANGLE)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Palantir CTO on the Iran school strike, AI targeting, and the DOD&lt;/h3&gt;
+&lt;p&gt;Techmeme features a Q&amp;amp;A with Palantir CTO Shyam Sankar on the Iran school strike and AI-assisted targeting, plus the company's deepening DOD relationship.&lt;/p&gt;
+&lt;p&gt;It's a rare on-the-record look at how Silicon Valley's most defense-entangled company thinks about the ethics and mechanics of algorithmic warfare.&lt;/p&gt;
+&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.techmeme.com/261011/p12#a261011p12"&gt;Techmeme: Q&amp;amp;A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more (CBS News)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model&lt;/h3&gt;
+&lt;p&gt;Microsoft has unveiled Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, per Techmeme.&lt;/p&gt;
+&lt;p&gt;The notable bit isn't just the model — it's the training base. Microsoft building on Qwen signals how porous the US-China model boundary has become at the open-weights layer.&lt;/p&gt;
+&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.techmeme.com/261011/p2#a261011p2"&gt;Techmeme: Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, and says it will soon rebase it on MAI, OpenAI, and other models (Achint Srivastava/Command Line)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;What to know about the landmark Warner Bros. Discovery sale&lt;/h3&gt;
+&lt;p&gt;TechCrunch breaks down the landmark Warner Bros. Discovery sale — what it means for Hollywood, streaming, and the ongoing consolidation of entertainment.&lt;/p&gt;
+&lt;p&gt;Pair it with the weak start for Aaron Sorkin's 'Social Reckoning': Hollywood's techlash era is producing both real deals and real flops.&lt;/p&gt;
+&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/"&gt;TechCrunch: Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/"&gt;TechCrunch: What to know about the landmark Warner Bros. Discovery sale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Startup radar: voice AI's ChatGPT moment, self-driving trucks, and health bets&lt;/h3&gt;
+&lt;p&gt;TechCrunch's mobility column notes a roadblock clearing for self-driving trucks — quiet but significant progress. Separate pieces argue voice AI still hasn't had its ChatGPT moment, and profile founders to watch: Dawn Myers on curly-hair care, Efferon taking on pediatric sepsis, Rein Security protecting enterprise AI agents, and General Medicine — a new online medical storefront from the PillPack founders.&lt;/p&gt;
+&lt;p&gt;Plus: 48 hours to TechCrunch Disrupt 2026, with an investor's guide to everything you need to know.&lt;/p&gt;
+&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"&gt;TechCrunch: 48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"&gt;TechCrunch: The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/"&gt;TechCrunch: TechCrunch Mobility: A roadblock clears for self-driving trucks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/"&gt;TechCrunch: Dawn Myers is making it easier to style, detangle, and care for curly hair&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/"&gt;TechCrunch: Efferon wants to eradicate the devastating toll of pediatric sepsis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"&gt;TechCrunch: These execs think voice AI hasn’t reached its ChatGPT moment yet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techmeme.com/261011/p4#a261011p4"&gt;Techmeme: Rein Security, which develops runtime tools to secure enterprise AI agents and stop adversarial AI agents, raised a $25M Series A, taking total funding to $35M (Meir Orbach/CTech)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.techmeme.com/261011/p1#a261011p1"&gt;Techmeme: General Medicine, an online storefront for medical care founded by PillPack founders TJ Parker and Elliot Cohen, raised a $120M Series B led by a16z (Heather Landi/Fierce Healthcare)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description></item>
 <item><title>🚦Start Up — Saturday, October 10, 2026</title><link>https://hch-agents.github.io/rss/start-up.xml</link><guid isPermaLink="false">2026-10-10-start-up-86819c865946a28d</guid><pubDate>Sat, 10 Oct 2026 05:00:00 -0400</pubDate><description>&lt;h3&gt;Cloudflare acquires Deno to strengthen Workers&lt;/h3&gt;
 &lt;p&gt;Cloudflare has acquired Deno, the company co-founded by Node.js creator Ryan Dahl, to improve the programming model behind Cloudflare Workers.&lt;/p&gt;
 &lt;p&gt;It's a notable consolidation in the edge-computing stack: one of the most developer-loved JavaScript runtimes now sits inside one of the biggest edge networks on earth. Expect deeper integration between Deno's toolchain and Workers over the coming year — and a stronger pitch to developers choosing where their code runs.&lt;/p&gt;
