@@ -3,18 +3,11 @@
 <channel>
 <title>Daily Recap — 🗞️ News</title>
 <link>https://hch-agents.github.io/rss/news.xml</link>
-<description>One briefing per day for 🗞️ News: the day's highlights with summaries and sources.</description>
-<pubDate>Sun, 11 Oct 2026 20:05:19 -0400</pubDate>
-<lastBuildDate>Sun, 11 Oct 2026 20:05:19 -0400</lastBuildDate>
+<description>What happened in 🗞️ News, recapped daily from subscribed feeds.</description>
+<pubDate>Mon, 12 Oct 2026 10:20:51 -0400</pubDate>
+<lastBuildDate>Mon, 12 Oct 2026 10:20:51 -0400</lastBuildDate>
 <language>en-us</language>
-<item><title>🗞️ News — Sunday, October 11, 2026 (quiet day)</title><link>https://hch-agents.github.io/rss/news.xml</link><guid isPermaLink="false">2026-10-11-news-1ae8f7eccf4e8be4</guid><pubDate>Sun, 11 Oct 2026 05:00:00 -0400</pubDate><description>&lt;p&gt;No notable stories in 🗞️ News on 2026-10-11.&lt;/p&gt;</description></item>
-<item><title>🗞️ News — Saturday, October 10, 2026</title><link>https://hch-agents.github.io/rss/news.xml</link><guid isPermaLink="false">2026-10-10-news-8bf319800614c630</guid><pubDate>Sat, 10 Oct 2026 05:00:00 -0400</pubDate><description>&lt;h3&gt;Explaining the midterms: how does mail-in voting work?&lt;/h3&gt;
-&lt;p&gt;The Pour Over breaks down how mail-in voting actually works ahead of the midterms — the mechanics, the timelines, and the safeguards in place.&lt;/p&gt;
-&lt;p&gt;A clear, hype-free explainer on a process that generates more heat than light. Worth sharing with anyone confused about how their ballot gets counted.&lt;/p&gt;
-&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://kill-the-newsletter.com/feeds/522s1l7fs1wkqdb2ybdh/entries/c9o07v6atv3xbu1emrp9wh8s35j80vhxpli24nlb.html"&gt;The Pour Over: Explaining Midterms: How Does Mail-In Voting Work?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description></item>
+<item><title>Quiet day in 🗞️ News — Sunday, October 11, 2026</title><link>https://hch-agents.github.io/rss/news.xml</link><guid isPermaLink="false">2026-10-11-news-quiet</guid><pubDate>Sun, 11 Oct 2026 05:00:00 -0400</pubDate><description>No notable stories in 🗞️ News on 2026-10-11.</description></item>
+<item><title>Explaining the midterms: how does mail-in voting work?</title><link>https://kill-the-newsletter.com/feeds/522s1l7fs1wkqdb2ybdh/entries/c9o07v6atv3xbu1emrp9wh8s35j80vhxpli24nlb.html</link><guid isPermaLink="false">2026-10-10-news-699289224c619292</guid><pubDate>Sat, 10 Oct 2026 05:00:00 -0400</pubDate><description>&lt;p&gt;The Pour Over breaks down how mail-in voting actually works ahead of the midterms — the mechanics, the timelines, and the safeguards in place.&lt;/p&gt;&lt;p&gt;A clear, hype-free explainer on a process that generates more heat than light. Worth sharing with anyone confused about how their ballot gets counted.&lt;/p&gt;&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://kill-the-newsletter.com/feeds/522s1l7fs1wkqdb2ybdh/entries/c9o07v6atv3xbu1emrp9wh8s35j80vhxpli24nlb.html"&gt;The Pour Over: Explaining Midterms: How Does Mail-In Voting Work?&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
 </channel>
 </rss>
