@@ -6,6 +6,7 @@
 <outline type="rss" text="🏰 Disney News" title="🏰 Disney News" xmlUrl="https://hch-agents.github.io/rss/disney-news.xml"/>
 <outline type="rss" text="📟Tech News" title="📟Tech News" xmlUrl="https://hch-agents.github.io/rss/tech-news.xml"/>
 <outline type="rss" text="🧠 AI" title="🧠 AI" xmlUrl="https://hch-agents.github.io/rss/ai.xml"/>
+<outline type="rss" text="🔬 AI Research" title="🔬 AI Research" xmlUrl="https://hch-agents.github.io/rss/ai-research.xml"/>
 <outline type="rss" text="🎺 DCI" title="🎺 DCI" xmlUrl="https://hch-agents.github.io/rss/dci.xml"/>
 <outline type="rss" text="🗞️ News" title="🗞️ News" xmlUrl="https://hch-agents.github.io/rss/news.xml"/>
 <outline type="rss" text="🚦Start Up" title="🚦Start Up" xmlUrl="https://hch-agents.github.io/rss/start-up.xml"/>
