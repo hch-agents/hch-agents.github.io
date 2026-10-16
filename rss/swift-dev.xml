@@ -4,8 +4,8 @@
 <title>Daily Recap — ⌨️ Swift Dev</title>
 <link>https://hch-agents.github.io/rss/swift-dev.xml</link>
 <description>What happened in ⌨️ Swift Dev, recapped daily from subscribed feeds.</description>
-<pubDate>Thu, 15 Oct 2026 04:57:40 -0400</pubDate>
-<lastBuildDate>Thu, 15 Oct 2026 04:57:40 -0400</lastBuildDate>
+<pubDate>Fri, 16 Oct 2026 05:01:39 -0400</pubDate>
+<lastBuildDate>Fri, 16 Oct 2026 05:01:39 -0400</lastBuildDate>
 <language>en-us</language>
 <item><title>Agentic iOS development with RocketSim and RocketTrace</title><link>https://www.avanderlee.com/ai-development/agentic-ios-development-rocketsim-rockettrace/</link><guid isPermaLink="false">2026-10-12-swift-dev-907ff0801458477d</guid><pubDate>Mon, 12 Oct 2026 05:00:00 -0400</pubDate><description>&lt;p&gt;Agentic iOS development changes a lot once your coding agent can see and measure the app it's building. Without that, an agent writes code, hopes it works, and asks you to run the app. With tools like RocketSim and RocketTrace, agents get real observability into builds, runtime behavior, and performance — closing the loop between writing code and verifying it.&lt;/p&gt;&lt;p&gt;The takeaway: the agents aren't the bottleneck anymore; the feedback loop is. Tooling that gives agents eyes on the simulator is where the next iOS productivity gains live.&lt;/p&gt;&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.avanderlee.com/ai-development/agentic-ios-development-rocketsim-rockettrace/"&gt;SwiftLee: Agentic iOS Development with RocketSim and RocketTrace&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
 </channel>
