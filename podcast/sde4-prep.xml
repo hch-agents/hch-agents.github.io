@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>SDE4 Prep</title>
+    <link>https://hch-agents.github.io/podcast/</link>
+    <description>A private course feed: Staff-level mobile architecture, one conversation at a time.</description>
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://hch-agents.github.io/podcast/cover.jpg"/>
+    <itunes:category text="Education"/>
+    <item>
+      <title>Ep 1: Architecture Patterns — Choosing Like a Staff Engineer</title>
+      <description>&lt;p&gt;Maya and Jordan walk through MVC, MVVM, MVI, and the Composable Architecture — not as a textbook tour, but through the Staff-level lens: which pattern earns its complexity for a given team, app, and trajectory, across iOS and Android.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:00 — Cold open&lt;/li&gt;
+&lt;li&gt;00:44 — Why patterns matter at Staff scope&lt;/li&gt;
+&lt;li&gt;01:55 — MVC and why mobile outgrew it&lt;/li&gt;
+&lt;li&gt;02:55 — MVVM, the workhorse&lt;/li&gt;
+&lt;li&gt;04:18 — MVI and unidirectional data flow&lt;/li&gt;
+&lt;li&gt;05:29 — TCA, the strict end of the spectrum&lt;/li&gt;
+&lt;li&gt;06:57 — The Staff judgment call&lt;/li&gt;
+&lt;li&gt;08:28 — Takeaway&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Go deeper&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.pointfree.co/collections/composable-architecture"&gt;The Composable Architecture — Point-Free&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/pointfreeco/swift-composable-architecture"&gt;swift-composable-architecture on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.android.com/topic/architecture"&gt;Android app architecture guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.objc.io/books/app-architecture/"&gt;App Architecture (objc.io book)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 14:08:46 -0400</pubDate>
+      <enclosure url="https://hch-agents.github.io/podcast/episodes/ep01-architecture-patterns.mp3" length="4354819" type="audio/mpeg"/>
+      <guid isPermaLink="false">sde4-prep-ep01-2026-10-16</guid>
+      <itunes:duration>543</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
