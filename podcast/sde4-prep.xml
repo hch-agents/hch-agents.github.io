@@ -9,6 +9,38 @@
     <itunes:image href="https://hch-agents.github.io/podcast/cover.jpg"/>
     <itunes:category text="Education"/>
     <item>
+      <title>Special: MVI Deep Dive</title>
+      <description>&lt;p&gt;A full-depth episode on Model-View-Intent: the unidirectional loop, pure reducers, effect handlers, platform state holders, replay debugging, testing, and sharing MVI across iOS and Android through Kotlin Multiplatform.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:00 — Cold open&lt;/li&gt;
+&lt;li&gt;00:25 — The loop, precisely&lt;/li&gt;
+&lt;li&gt;01:40 — Reducers as pure functions&lt;/li&gt;
+&lt;li&gt;03:00 — Side effects, the honest part&lt;/li&gt;
+&lt;li&gt;04:40 — State holders on Android&lt;/li&gt;
+&lt;li&gt;06:05 — State holders on iOS&lt;/li&gt;
+&lt;li&gt;07:15 — Replay and time-travel&lt;/li&gt;
+&lt;li&gt;08:25 — Testing the loop&lt;/li&gt;
+&lt;li&gt;09:40 — The KMP angle&lt;/li&gt;
+&lt;li&gt;10:45 — When MVI hurts&lt;/li&gt;
+&lt;li&gt;12:00 — Takeaway&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Topics mentioned in this episode&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-state-flow/"&gt;StateFlow — Kotlin coroutines docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.android.com/topic/architecture/ui-layer"&gt;Unidirectional data flow &amp;amp; state hoisting — Android UI layer guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.apple.com/documentation/observation"&gt;Observation framework — Apple Developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pointfree.co/collections/composable-architecture"&gt;The Composable Architecture — Point-Free&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/cashapp/turbine"&gt;Turbine — flow testing for Kotlin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.jetbrains.com/kotlin-multiplatform/"&gt;Kotlin Multiplatform — JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 23:10:02 -0400</pubDate>
+      <enclosure url="https://hch-agents.github.io/podcast/episodes/mvi-special-mvi-deep-dive.mp3" length="6107767" type="audio/mpeg"/>
+      <guid isPermaLink="false">sde4-prep-special-mvi-2026-10-17</guid>
+      <itunes:duration>762</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Ep 1: Architecture Patterns — Choosing Like a Staff Engineer</title>
       <description>&lt;p&gt;Maya and Jordan walk through MVC, MVVM, MVI, and the Composable Architecture — not as a textbook tour, but through the Staff-level lens: which pattern earns its complexity for a given team, app, and trajectory, across iOS and Android.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;
