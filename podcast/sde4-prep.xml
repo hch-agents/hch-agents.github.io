@@ -9,6 +9,41 @@
     <itunes:image href="https://hch-agents.github.io/podcast/cover.jpg"/>
     <itunes:category text="Education"/>
     <item>
+      <title>Ep 2: Dependency Injection &amp; Inversion of Control</title>
+      <description>&lt;p&gt;Dependency injection as inversion of control applied to construction: injection styles, scopes and lifetimes, compile-time vs runtime graphs, the iOS framework landscape, DI across module boundaries, testing seams, DI in Kotlin Multiplatform, and where DI hurts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:00 — Cold open&lt;/li&gt;
+&lt;li&gt;00:30 — Inversion of control, precisely&lt;/li&gt;
+&lt;li&gt;01:55 — The three injection styles&lt;/li&gt;
+&lt;li&gt;03:35 — Scopes and lifetimes&lt;/li&gt;
+&lt;li&gt;05:15 — Compile time versus runtime&lt;/li&gt;
+&lt;li&gt;07:05 — D I on iOS, without a blessed framework&lt;/li&gt;
+&lt;li&gt;08:35 — D I across module boundaries&lt;/li&gt;
+&lt;li&gt;10:15 — The testing payoff, honestly assessed&lt;/li&gt;
+&lt;li&gt;11:35 — D I in Kotlin Multiplatform&lt;/li&gt;
+&lt;li&gt;13:30 — When D I hurts&lt;/li&gt;
+&lt;li&gt;15:25 — Takeaway&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Topics mentioned in this episode&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://martinfowler.com/articles/injection.html"&gt;Inversion of Control Containers and the Dependency Injection pattern — Martin Fowler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.ploeh.dk/2011/07/28/CompositionRoot/"&gt;Composition Root — Mark Seemann&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dagger.dev/"&gt;Dagger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.android.com/training/dependency-injection/hilt-android"&gt;Dependency injection with Hilt — Android Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://insert-koin.io/"&gt;Koin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://insert-koin.io/docs/reference/koin-mp/kmp"&gt;Koin multiplatform (KMP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/Swinject/Swinject"&gt;Swinject&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/hmlongco/Factory"&gt;Factory — hmlongco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/uber/needle"&gt;Needle — Uber&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 07:02:12 -0400</pubDate>
+      <enclosure url="https://hch-agents.github.io/podcast/episodes/ep02-dependency-injection.mp3" length="7971506" type="audio/mpeg"/>
+      <guid isPermaLink="false">sde4-prep-ep02-2026-10-19</guid>
+      <itunes:duration>995</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Special: MVI Deep Dive</title>
       <description>&lt;p&gt;A full-depth episode on Model-View-Intent: the unidirectional loop, pure reducers, effect handlers, platform state holders, replay debugging, testing, and sharing MVI across iOS and Android through Kotlin Multiplatform.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;
