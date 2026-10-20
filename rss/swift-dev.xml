@@ -4,8 +4,8 @@
 <title>Daily Recap — ⌨️ Swift Dev</title>
 <link>https://hch-agents.github.io/rss/swift-dev.xml</link>
 <description>What happened in ⌨️ Swift Dev, recapped daily from subscribed feeds.</description>
-<pubDate>Tue, 20 Oct 2026 05:00:10 -0400</pubDate>
-<lastBuildDate>Tue, 20 Oct 2026 05:00:10 -0400</lastBuildDate>
+<pubDate>Tue, 20 Oct 2026 05:03:45 -0400</pubDate>
+<lastBuildDate>Tue, 20 Oct 2026 05:03:45 -0400</lastBuildDate>
 <language>en-us</language>
 <item><title>Finding SwiftUI Redraws with Xcode Instruments</title><link>https://www.avanderlee.com/swiftui/swiftui-performance-xcode-instruments/</link><guid isPermaLink="false">2026-10-19-swift-dev-d58b8658a59052a2</guid><pubDate>Mon, 19 Oct 2026 05:00:00 -0400</pubDate><description>&lt;p&gt;SwiftUI performance problems almost always come down to the same root cause: views that redraw too often, or whose bodies take too long to run. The catch is that before you can fix anything, you have to figure out which views are the culprits and what is triggering their updates — and in a declarative UI framework that can be surprisingly opaque.&lt;/p&gt;&lt;p&gt;Xcode Instruments can show you exactly that, as long as you know where to look. The article walks through the Instruments workflow for tracing view redraws, identifying the state changes that invalidate bodies, and measuring how long view bodies actually take to execute. If you've ever shipped a SwiftUI screen that felt inexplicably sluggish, this is the diagnostic skill that turns guesswork into evidence before you start optimizing.&lt;/p&gt;&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.avanderlee.com/swiftui/swiftui-performance-xcode-instruments/"&gt;SwiftLee: SwiftUI Performance: Find Redraws in Xcode Instruments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
 </channel>
