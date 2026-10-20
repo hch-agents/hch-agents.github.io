@@ -9,6 +9,42 @@
     <itunes:image href="https://hch-agents.github.io/podcast/cover.jpg"/>
     <itunes:category text="Education"/>
     <item>
+      <title>Special: Koin Deep Dive</title>
+      <description>&lt;p&gt;Koin under the hood: the registry-and-resolver model, the definitions D S L (single, factory, scoped), qualifiers and parameters, scope lifetimes, the runtime-resolution trade-off and checkModules, Koin Annotations with K S P, organizing modules by feature and layer, the K M P graph split, the iOS bridge problem, testing the graph, and when to choose manual D I, Dagger, or kotlin-inject instead.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0:00 Why Koin, and why it fits Kotlin Multiplatform&lt;/li&gt;
+&lt;li&gt;1:10 What Koin actually is under the hood&lt;/li&gt;
+&lt;li&gt;2:25 Writing definitions: single, factory, and the module D S L&lt;/li&gt;
+&lt;li&gt;3:45 Qualifiers, parameters, and declare&lt;/li&gt;
+&lt;li&gt;5:25 Scopes: lifetimes between singleton and fresh&lt;/li&gt;
+&lt;li&gt;6:40 The runtime trade-off, honestly&lt;/li&gt;
+&lt;li&gt;8:10 Koin Annotations and K S P: the compile-time path&lt;/li&gt;
+&lt;li&gt;9:35 Organizing a graph that stays readable&lt;/li&gt;
+&lt;li&gt;10:55 Koin in Kotlin Multiplatform: where the graph splits&lt;/li&gt;
+&lt;li&gt;12:20 The iOS bridge: Koin's hardest edge&lt;/li&gt;
+&lt;li&gt;14:15 Testing a Koin graph&lt;/li&gt;
+&lt;li&gt;15:35 When Koin is the wrong tool, and the takeaway&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Dig deeper:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://insert-koin.io/docs/reference/koin-core/definitions/"&gt;Koin definitions reference&lt;/a&gt; - single, factory, scoped, qualifiers, parameters&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://insert-koin.io/docs/reference/koin-core/scopes/"&gt;Koin scopes&lt;/a&gt; - creation, linking, lifecycle&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://insert-koin.io/docs/reference/koin-core/modules/"&gt;Koin modules&lt;/a&gt; - organization, includes, lazy modules&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://insert-koin.io/docs/reference/koin-test/testing/"&gt;Testing with Koin&lt;/a&gt; - KoinTest and checkModules&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://insert-koin.io/docs/reference/koin-annotations/start/"&gt;Koin Annotations&lt;/a&gt; - annotation-based definitions&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/ksp-overview.html"&gt;KSP overview&lt;/a&gt; - how Kotlin Symbol Processing works&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/touchlab/KaMPKit"&gt;KaMPKit (Touchlab)&lt;/a&gt; - KMP sample app using Koin on Android and iOS&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/InsertKoinIO/koin"&gt;Koin on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://insert-koin.io/docs/setup/koin/"&gt;Setting up Koin&lt;/a&gt; - Gradle setup&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Tue, 20 Oct 2026 10:27:00 -0400</pubDate>
+      <enclosure url="https://hch-agents.github.io/podcast/episodes/koin-special-koin-deep-dive.mp3" length="8238320" type="audio/mpeg"/>
+      <guid isPermaLink="false">sde4-prep-koin-special-2026-10-20</guid>
+      <itunes:duration>1028</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Ep 4: Clean Architecture Layering Without Over-Engineering</title>
       <description>&lt;p&gt;The dependency rule, what each layer earns, the mapping gauntlet and other over-engineering traps — and pragmatic layering for iOS, Android, and shared KMP code.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;
