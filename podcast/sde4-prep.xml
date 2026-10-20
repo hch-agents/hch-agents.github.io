@@ -9,6 +9,44 @@
     <itunes:image href="https://hch-agents.github.io/podcast/cover.jpg"/>
     <itunes:category text="Education"/>
     <item>
+      <title>Ep 4: Clean Architecture Layering Without Over-Engineering</title>
+      <description>&lt;p&gt;The dependency rule, what each layer earns, the mapping gauntlet and other over-engineering traps — and pragmatic layering for iOS, Android, and shared KMP code.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;00:00 — Cold open&lt;/li&gt;
+&lt;li&gt;00:45 — The layers, precisely&lt;/li&gt;
+&lt;li&gt;01:55 — Why the inward arrow matters&lt;/li&gt;
+&lt;li&gt;03:35 — Use cases — the great debate&lt;/li&gt;
+&lt;li&gt;05:30 — Repositories, the real seam&lt;/li&gt;
+&lt;li&gt;07:15 — The over-engineering patterns, named&lt;/li&gt;
+&lt;li&gt;09:45 — The pragmatic default: three layers, sliced by feature&lt;/li&gt;
+&lt;li&gt;11:05 — Platform realities — Android and iOS&lt;/li&gt;
+&lt;li&gt;12:15 — Clean architecture in shared K M P code&lt;/li&gt;
+&lt;li&gt;13:45 — When to break the rule&lt;/li&gt;
+&lt;li&gt;14:50 — Takeaway&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Topics mentioned in this episode&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html"&gt;The Clean Architecture — Robert C. Martin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/android/nowinandroid"&gt;Now in Android (sample app)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.android.com/topic/architecture/data-layer"&gt;Android architecture: data layer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.android.com/topic/architecture/domain-layer"&gt;Android architecture: domain layer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/flow.html"&gt;Kotlin Flow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.apple.com/documentation/combine"&gt;Combine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.apple.com/documentation/swift/asyncsequence"&gt;AsyncSequence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ktor.io/"&gt;Ktor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/square/okhttp"&gt;OkHttp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cashapp.github.io/sqldelight/"&gt;SQLDelight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/multiplatform-connect-to-apis.html"&gt;Kotlin Multiplatform: connect to platform-specific APIs (expect/actual)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/multiplatform.html"&gt;Kotlin Multiplatform overview&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Tue, 20 Oct 2026 07:01:09 -0400</pubDate>
+      <enclosure url="https://hch-agents.github.io/podcast/episodes/ep04-clean-architecture.mp3" length="7733824" type="audio/mpeg"/>
+      <guid isPermaLink="false">sde4-prep-ep04-2026-10-20</guid>
+      <itunes:duration>965</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Ep 2: Dependency Injection &amp; Inversion of Control</title>
       <description>&lt;p&gt;Dependency injection as inversion of control applied to construction: injection styles, scopes and lifetimes, compile-time vs runtime graphs, the iOS framework landscape, DI across module boundaries, testing seams, DI in Kotlin Multiplatform, and where DI hurts.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;
