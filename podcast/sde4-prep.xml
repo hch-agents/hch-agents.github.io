@@ -9,6 +9,42 @@
     <itunes:image href="https://hch-agents.github.io/podcast/cover.jpg"/>
     <itunes:category text="Education"/>
     <item>
+      <title>Ep 5: Concurrency Models Compared — Swift vs Kotlin</title>
+      <description>&lt;p&gt;Swift's async/await and actors versus Kotlin's coroutines and Flow: where the two concurrency models genuinely agree, where they diverge — compiler-enforced isolation versus library-level discipline — and where concurrency bugs cluster on each platform, plus what coroutines look like in shared K M P code.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0:00 Cold open&lt;/li&gt;
+&lt;li&gt;1:25 Swift concurrency in one pass&lt;/li&gt;
+&lt;li&gt;4:50 Actors, isolation, and Sendable&lt;/li&gt;
+&lt;li&gt;8:25 Kotlin coroutines in one pass&lt;/li&gt;
+&lt;li&gt;12:30 Shared mutable state — actors versus Mutex&lt;/li&gt;
+&lt;li&gt;14:40 Streams — Flow versus AsyncSequence&lt;/li&gt;
+&lt;li&gt;17:40 The main thread, both ways&lt;/li&gt;
+&lt;li&gt;19:30 The K M P wrinkle&lt;/li&gt;
+&lt;li&gt;21:45 Where bugs cluster — the review checklist&lt;/li&gt;
+&lt;li&gt;24:35 Takeaway&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/"&gt;Swift: Concurrency (The Swift Programming Language)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0304-structured-concurrency.md"&gt;SE-0304: Structured Concurrency&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/swiftlang/swift-evolution/blob/main/proposals/0306-actors.md"&gt;SE-0306: Actors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/coroutines-guide.html"&gt;Kotlin: Coroutines guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/coroutines-basics.html"&gt;Kotlin: Coroutine basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/shared-mutable-state-and-concurrency.html"&gt;Kotlin: Shared mutable state and concurrency&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/flow.html"&gt;Kotlin: Flow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-state-flow/"&gt;Kotlin: StateFlow API reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.apple.com/documentation/swift/asyncsequence"&gt;Swift: AsyncSequence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rickclephas/KMP-NativeCoroutines"&gt;KMP-NativeCoroutines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://skie.touchlab.co/"&gt;SKIE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 07:17:11 -0400</pubDate>
+      <enclosure url="https://hch-agents.github.io/podcast/episodes/ep05-concurrency.mp3" length="12516817" type="audio/mpeg"/>
+      <guid isPermaLink="false">sde4-prep-ep05-2026-10-21</guid>
+      <itunes:duration>1562</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Special: Koin Deep Dive</title>
       <description>&lt;p&gt;Koin under the hood: the registry-and-resolver model, the definitions D S L (single, factory, scoped), qualifiers and parameters, scope lifetimes, the runtime-resolution trade-off and checkModules, Koin Annotations with K S P, organizing modules by feature and layer, the K M P graph split, the iOS bridge problem, testing the graph, and when to choose manual D I, Dagger, or kotlin-inject instead.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
