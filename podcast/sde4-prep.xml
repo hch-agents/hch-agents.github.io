@@ -14,15 +14,15 @@
 &lt;p&gt;&lt;strong&gt;Chapters:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;0:00 Cold open&lt;/li&gt;
-&lt;li&gt;1:25 Swift concurrency in one pass&lt;/li&gt;
-&lt;li&gt;4:50 Actors, isolation, and Sendable&lt;/li&gt;
-&lt;li&gt;8:25 Kotlin coroutines in one pass&lt;/li&gt;
-&lt;li&gt;12:30 Shared mutable state — actors versus Mutex&lt;/li&gt;
-&lt;li&gt;14:40 Streams — Flow versus AsyncSequence&lt;/li&gt;
-&lt;li&gt;17:40 The main thread, both ways&lt;/li&gt;
-&lt;li&gt;19:30 The K M P wrinkle&lt;/li&gt;
-&lt;li&gt;21:45 Where bugs cluster — the review checklist&lt;/li&gt;
-&lt;li&gt;24:35 Takeaway&lt;/li&gt;
+&lt;li&gt;1:10 Swift concurrency in one pass&lt;/li&gt;
+&lt;li&gt;4:00 Actors, isolation, and Sendable&lt;/li&gt;
+&lt;li&gt;6:50 Kotlin coroutines in one pass&lt;/li&gt;
+&lt;li&gt;10:40 Shared mutable state — actors versus Mutex&lt;/li&gt;
+&lt;li&gt;12:30 Streams — Flow versus AsyncSequence&lt;/li&gt;
+&lt;li&gt;15:20 The main thread, both ways&lt;/li&gt;
+&lt;li&gt;17:10 The K M P wrinkle&lt;/li&gt;
+&lt;li&gt;19:25 Where bugs cluster — the review checklist&lt;/li&gt;
+&lt;li&gt;22:05 Takeaway&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -39,9 +39,9 @@
 &lt;li&gt;&lt;a href="https://skie.touchlab.co/"&gt;SKIE&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <pubDate>Wed, 21 Oct 2026 07:17:11 -0400</pubDate>
-      <enclosure url="https://hch-agents.github.io/podcast/episodes/ep05-concurrency.mp3" length="12516817" type="audio/mpeg"/>
+      <enclosure url="https://hch-agents.github.io/podcast/episodes/ep05-concurrency.mp3" length="11192340" type="audio/mpeg"/>
       <guid isPermaLink="false">sde4-prep-ep05-2026-10-21</guid>
-      <itunes:duration>1562</itunes:duration>
+      <itunes:duration>1397</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -124,14 +124,14 @@
 &lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;00:00 — Cold open&lt;/li&gt;
-&lt;li&gt;01:00 — What a module boundary actually buys you&lt;/li&gt;
-&lt;li&gt;03:35 — The one graph rule — acyclic, always&lt;/li&gt;
-&lt;li&gt;06:00 — iOS mechanics — frameworks, packages, static versus dynamic&lt;/li&gt;
-&lt;li&gt;08:45 — Android mechanics — Gradle modules, api versus implementation&lt;/li&gt;
-&lt;li&gt;11:20 — Interface modules — breaking cycles with abstraction&lt;/li&gt;
-&lt;li&gt;13:15 — The failure modes&lt;/li&gt;
-&lt;li&gt;15:40 — Extracting modules from a monolith&lt;/li&gt;
-&lt;li&gt;18:15 — Takeaway&lt;/li&gt;
+&lt;li&gt;01:15 — What a module boundary actually buys you&lt;/li&gt;
+&lt;li&gt;03:55 — The one graph rule — acyclic, always&lt;/li&gt;
+&lt;li&gt;06:35 — iOS mechanics — frameworks, packages, static versus dynamic&lt;/li&gt;
+&lt;li&gt;09:40 — Android mechanics — Gradle modules, api versus implementation&lt;/li&gt;
+&lt;li&gt;13:20 — Interface modules — breaking cycles with abstraction&lt;/li&gt;
+&lt;li&gt;16:10 — The failure modes&lt;/li&gt;
+&lt;li&gt;19:00 — Extracting modules from a monolith&lt;/li&gt;
+&lt;li&gt;22:00 — Takeaway&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Topics mentioned in this episode&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -148,9 +148,9 @@
 &lt;li&gt;&lt;a href="https://github.com/android/nowinandroid"&gt;Now in Android — reference modular app on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <pubDate>Thu, 22 Oct 2026 07:03:21 -0400</pubDate>
-      <enclosure url="https://hch-agents.github.io/podcast/episodes/ep06-modularization.mp3" length="9406174" type="audio/mpeg"/>
+      <enclosure url="https://hch-agents.github.io/podcast/episodes/ep06-modularization.mp3" length="11196423" type="audio/mpeg"/>
       <guid isPermaLink="false">sde4-prep-ep06-2026-10-22</guid>
-      <itunes:duration>1174</itunes:duration>
+      <itunes:duration>1398</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
