@@ -93,37 +93,11 @@
     </item>
     <item>
       <title>Ep 6: Modularization at Scale</title>
-      <description>&lt;p&gt;Maya and Jordan dig into modularization: what a module boundary actually buys you (build boundary, compiler-enforced API surface, ownership), the one graph rule that matters (acyclic — diamonds fine, cycles fatal), iOS linking mechanics vs Android Gradle mechanics, interface modules for breaking cycles, the four failure modes, and the no-flag-day extraction playbook for a monolith.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;00:00 — Cold open&lt;/li&gt;
-&lt;li&gt;01:15 — What a module boundary actually buys you&lt;/li&gt;
-&lt;li&gt;03:55 — The one graph rule — acyclic, always&lt;/li&gt;
-&lt;li&gt;06:35 — iOS mechanics — frameworks, packages, static versus dynamic&lt;/li&gt;
-&lt;li&gt;09:40 — Android mechanics — Gradle modules, api versus implementation&lt;/li&gt;
-&lt;li&gt;13:20 — Interface modules — breaking cycles with abstraction&lt;/li&gt;
-&lt;li&gt;16:10 — The failure modes&lt;/li&gt;
-&lt;li&gt;19:00 — Extracting modules from a monolith&lt;/li&gt;
-&lt;li&gt;22:00 — Takeaway&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Topics mentioned in this episode&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.swift.org/documentation/package-manager/"&gt;Swift Package Manager documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://developer.apple.com/documentation/xcode/creating-a-multi-platform-binary-framework-bundle"&gt;Creating a multi-platform binary framework bundle (XCFramework) — Apple&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.swift.org/blog/library-evolution/"&gt;Library Evolution in Swift&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.tuist.io/"&gt;Tuist docs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://bazel.build/"&gt;Bazel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://developer.android.com/build/dependencies"&gt;Add build dependencies (api vs implementation) — Android Developers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.gradle.org/current/userguide/java_library_plugin.html"&gt;The Java Library Plugin: api vs implementation separation — Gradle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.gradle.org/current/userguide/build_cache.html"&gt;Build Cache — Gradle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.gradle.org/current/userguide/configuration_cache.html"&gt;Configuration Cache — Gradle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.gradle.org/current/userguide/performance.html"&gt;Improving Build Performance (incl. compile avoidance) — Gradle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/android/nowinandroid"&gt;Now in Android — reference modular app on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;How a mobile codebase gets split into modules: what a module really is, where the borders go, dependency rules, interface modules, the shared KMP module's place, and the anti-patterns that make splits fail.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;0:00 — Cold open: borders, not folders&lt;/li&gt;&lt;li&gt;0:45 — What a module actually is&lt;/li&gt;&lt;li&gt;1:30 — Why split: build times and ownership&lt;/li&gt;&lt;li&gt;2:10 — Public surfaces and dependency rules&lt;/li&gt;&lt;li&gt;3:05 — Transitive leaks and explicit dependencies&lt;/li&gt;&lt;li&gt;4:00 — Feature modules versus layered modules&lt;/li&gt;&lt;li&gt;4:45 — Interface modules: contracts between features&lt;/li&gt;&lt;li&gt;5:40 — Where the shared K M P module sits&lt;/li&gt;&lt;li&gt;6:30 — Anti-patterns&lt;/li&gt;&lt;li&gt;7:15 — Sizing and the splitting order&lt;/li&gt;&lt;li&gt;8:05 — Build pipelines, tests, and the takeaway&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Links by topic&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://developer.apple.com/documentation/xcode/organizing-your-code-with-local-packages"&gt;Organizing code with local Swift packages (Apple developer docs)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://docs.gradle.org/current/userguide/java_library_plugin.html"&gt;Gradle api vs implementation dependencies (Gradle user manual)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/multiplatform.html"&gt;Kotlin Multiplatform overview (Kotlin docs)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/multiplatform-mobile-concurrency-overview.html"&gt;Concurrency in Kotlin Multiplatform (Kotlin docs)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
       <pubDate>Thu, 22 Oct 2026 07:03:21 -0400</pubDate>
-      <enclosure url="https://hch-agents.github.io/podcast/episodes/ep06-modularization.mp3" length="11196423" type="audio/mpeg"/>
+      <enclosure url="https://hch-agents.github.io/podcast/episodes/ep06-modularization.mp3" length="4335761" type="audio/mpeg"/>
       <guid isPermaLink="false">sde4-prep-ep06-2026-10-22</guid>
-      <itunes:duration>1398</itunes:duration>
+      <itunes:duration>541</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
