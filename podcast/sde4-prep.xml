@@ -101,6 +101,15 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <title>Ep 8: KMP Mental Model: Common vs Platform Code</title>
+      <description>&lt;p&gt;What belongs in shared code, what stays on the platform, and how to tell the difference — starting from the familiar idea of a shared Swift package and building the Kotlin Multiplatform mental model from there.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;0:00 — Cold open: one picture, two platforms&lt;/li&gt;&lt;li&gt;0:45 — Start from iOS: a shared Swift package&lt;/li&gt;&lt;li&gt;1:50 — What K M P actually compiles to&lt;/li&gt;&lt;li&gt;3:05 — The common set: what belongs in the middle&lt;/li&gt;&lt;li&gt;4:20 — What stays platform: screens, system services, feel&lt;/li&gt;&lt;li&gt;5:20 — The boundary rule: abstractions in, details out&lt;/li&gt;&lt;li&gt;6:40 — The direction rule: platform depends on common, never the reverse&lt;/li&gt;&lt;li&gt;7:45 — The write-once trap&lt;/li&gt;&lt;li&gt;8:50 — When common code leaks: dates, threads, and strings&lt;/li&gt;&lt;li&gt;10:05 — The decision checklist&lt;/li&gt;&lt;li&gt;11:00 — Debugging across the boundary&lt;/li&gt;&lt;li&gt;12:20 — Takeaway: a shared brain, two native faces&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Links by topic&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/multiplatform.html"&gt;Kotlin Multiplatform documentation&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/native-overview.html"&gt;Kotlin Native overview&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/coroutines-guide.html"&gt;Kotlin coroutines guide&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://developer.apple.com/documentation/swiftui/"&gt;SwiftUI documentation (Apple)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://developer.android.com/compose"&gt;Jetpack Compose (Android)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 07:05:48 -0400</pubDate>
+      <enclosure url="https://hch-agents.github.io/podcast/episodes/ep08-kmp-mental-model.mp3" length="6202454" type="audio/mpeg"/>
+      <guid isPermaLink="false">sde4-prep-ep08-2026-10-26</guid>
+      <itunes:duration>774</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Ep 2: Dependency Injection &amp; Inversion of Control</title>
       <description>&lt;p&gt;Dependency injection as inversion of control applied to construction: injection styles, scopes and lifetimes, compile-time vs runtime graphs, the iOS framework landscape, DI across module boundaries, testing seams, DI in Kotlin Multiplatform, and where DI hurts.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;
