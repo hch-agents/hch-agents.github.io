@@ -284,5 +284,14 @@
       <itunes:duration>543</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>Ep 17: Build vs Buy, Tech Debt &amp; Platform Parity</title>
+      <description>&lt;p&gt;Maya and Jordan on when to build and when to buy, the real cost of tech debt, and keeping iOS and Android honest with each other — from the platform-first default on iOS, through total cost of ownership, to shared code as a parity tool.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chapters&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;00:00 — Cold open: the question that never goes away&lt;/li&gt;&lt;li&gt;00:30 — Start from iOS: what the platform already gives you&lt;/li&gt;&lt;li&gt;01:20 — The real cost model&lt;/li&gt;&lt;li&gt;02:30 — When buying wins&lt;/li&gt;&lt;li&gt;03:30 — When building wins&lt;/li&gt;&lt;li&gt;04:25 — Tech debt, defined honestly&lt;/li&gt;&lt;li&gt;05:15 — Measuring the interest&lt;/li&gt;&lt;li&gt;06:35 — Paying it down&lt;/li&gt;&lt;li&gt;07:25 — Platform parity: two apps, one product&lt;/li&gt;&lt;li&gt;08:40 — K M P as a parity tool&lt;/li&gt;&lt;li&gt;09:45 — Takeaway: the framework&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Links by topic&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://developer.apple.com/documentation/foundation/urlsession"&gt;URLSession (iOS) — Apple&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://developer.apple.com/documentation/swiftdata"&gt;SwiftData (iOS) — Apple&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://developer.apple.com/documentation/swift/concurrency"&gt;Swift Concurrency — Apple&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://developer.apple.com/documentation/swiftui"&gt;SwiftUI — Apple&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://martinfowler.com/bliki/TechnicalDebt.html"&gt;Technical Debt — Martin Fowler&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://c2.com/cgi/wiki?TechnicalDebt"&gt;Technical Debt — Ward Cunningham, c2 wiki&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://martinfowler.com/bliki/StranglerFigApplication.html"&gt;Strangler Fig Application — Martin Fowler&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://martinfowler.com/articles/feature-toggles.html"&gt;Feature Toggles — Martin Fowler&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://kotlinlang.org/docs/multiplatform.html"&gt;Kotlin Multiplatform overview — Kotlin docs&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 07:01:08 -0500</pubDate>
+      <enclosure url="https://hch-agents.github.io/podcast/episodes/ep17-build-vs-buy-tech-debt-platform-parity.mp3" length="5128438" type="audio/mpeg"/>
+      <guid isPermaLink="false">sde4-prep-ep17-2026-11-06</guid>
+      <itunes:duration>640</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
