@@ -4,8 +4,8 @@
 <title>Daily Recap — ⌨️ Swift Dev</title>
 <link>https://hch-agents.github.io/rss/swift-dev.xml</link>
 <description>What happened in ⌨️ Swift Dev, recapped daily from subscribed feeds.</description>
-<pubDate>Fri, 27 Nov 2026 05:00:21 -0500</pubDate>
-<lastBuildDate>Fri, 27 Nov 2026 05:00:21 -0500</lastBuildDate>
+<pubDate>Sat, 28 Nov 2026 04:58:37 -0500</pubDate>
+<lastBuildDate>Sat, 28 Nov 2026 04:58:37 -0500</lastBuildDate>
 <language>en-us</language>
 <item><title>Is Xcode's MCP actually faster than xcodebuild? A real-world speed test</title><link>https://www.avanderlee.com/ai-development/xcode-mcp-vs-xcodebuild/</link><guid isPermaLink="false">2026-11-23-swift-dev-825c3976898a99db</guid><pubDate>Mon, 23 Nov 2026 05:00:00 -0500</pubDate><description>&lt;p&gt;Xcode's built-in Model Context Protocol server lets AI tools build your app through its BuildProject tool instead of shelling out to xcodebuild — but since both run the same compiler on the same project, is the MCP actually any faster? SwiftLee's Antoine van der Lee measured it on a real project to find out.&lt;/p&gt;&lt;p&gt;The comparison matters because MCP-based build tooling is becoming the default way AI coding assistants interact with Xcode, and build speed is the bottleneck that determines how useful those assistants feel in practice. If the MCP adds overhead, that cost compounds across every build an agent triggers; if it's faster, it's one more reason to let the agent drive. The article walks through the methodology and the measured results for builds and tests, so you can judge whether the difference is worth changing your workflow.&lt;/p&gt;&lt;h4 style="margin:0.8em 0 0.2em"&gt;Sources&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.avanderlee.com/ai-development/xcode-mcp-vs-xcodebuild/"&gt;SwiftLee: Xcode MCP vs xcodebuild: build and test speed compared&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
 </channel>
